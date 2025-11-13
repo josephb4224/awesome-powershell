@@ -2,7 +2,7 @@
 title: Awesome PowerShell
 ---
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Link Verification](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml)hi
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Link Verification](https://github.com/janikvonrotz/awesome-powershell/actions/workflows /markdownLinkDaily.yml/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions/workflows/markdownLinkDaily.yml)hi
 
 A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) packages and resources.
 
